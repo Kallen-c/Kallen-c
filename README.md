@@ -6,7 +6,7 @@
 
 Hey there 👋,
 
-I am a former software engineer with deep knowledge in analytics. A wide range of business, technical and communicative skills allows me to manage complex crypto projects. i'm validator/moderator/ambassador in mainnets and testnets of such networks as space, polkadot, solana, as well as other unique blockchains in which I participate. You can see a full list of what I am up to on [kallen.cc](https://kallen.cc). Also if you want earn some tokens stake with us [forward-stake.com](https://forward-stake.com). I would love to see you [here](https://forward-stake.com) 💕  
+I am a former software engineer with a focus on analytics. I have a wide range of business, technical, and communication skills which have allowed me to manage complex crypto projects. I participate as a validator/moderator/ambassador in mainnets and testnets of such networks as cosmos, polkadot, solana, as well as other unique blockchains. You can see a full list of what I am up to on [kallen.cc](https://kallen.cc). Also if you want earn some tokens stake with us [forward-stake.com](https://forward-stake.com). I would love to see you [here](https://forward-stake.com) 💕  
 
   ---
  
