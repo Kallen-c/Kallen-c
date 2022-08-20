@@ -14,12 +14,11 @@ I am a former software engineer with a focus on analytics. I have a wide range o
   <img width="250" align='left' src="https://forward-stake.com/images/logo.png?raw=true">
 </p>
  
-### [forward-stake](https://forward-stake.com)
+### [Stake and BE BRAVE LIKE UKRAINE](https://forward-stake.com)
 
-We are a small community of experienced validators focused on high-quality and long-term cooperation with the crypto projects we are interested in. We cooperate with crypto projects starting from the testnet stage and continue to participate at the mainnet stage.
+i'm Ukrainian and I love my country🇺🇦 I'm starting volunteer project called "Stake and BE BRAVE LIKE UKRAINE". I decided to create this project because I understand that we can help Ukrainian children who were left to live without parents because their parents were killed by russian military bastards!
 
-We trust only proven reliable hostings, our validators are equipped with the most modern data monitoring and analysis systems, as well as telegram bots. 
-If you decide delegate on our validators, you can be sure that the risks are minimized, as well as get answers to your questions, more info in contacts section.
+The entire commission from delegated tokens is sent to help children who have suffered from russian aggression! Every Saturday I will withdraw commission and send it to charitable foundations, if you know those children who need help - write to me! I will send money to them!
 
  ---
  
