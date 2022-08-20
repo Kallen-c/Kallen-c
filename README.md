@@ -6,7 +6,11 @@
 
 Hey there 👋,
 
-I am a former software engineer with a focus on analytics. I have a wide range of business, technical, and communication skills which have allowed me to manage complex crypto projects. I participate as a validator/moderator/ambassador in mainnets and testnets of such networks as cosmos, polkadot, solana, as well as other unique blockchains. You can see a full list of what I am up to on [kallen.cc](https://kallen.cc). Also if you want earn some tokens stake with us [forward-stake.com](https://forward-stake.com). I would love to see you [here](https://forward-stake.com) 💕  
+I am co-founder of [AMB](https://amb.place/) - the best solution for your ambassador program! 
+
+I am Binance angel and former software engineer with focus on analytics. I have wide range of business, technical, and communication skills which have allowed me to manage complex crypto projects. I participate as validator/moderator/ambassador in mainnets and testnets of such networks as cosmos, polkadot, solana, as well as other unique blockchains. You can see a full list of what I am up to on [kallen.cc](https://kallen.cc/#portfolio). 
+
+Iff you want earn some tokens stake with us [Stake and BE BRAVE LIKE UKRAINE](https://forward-stake.com). I would love to see you [here](https://forward-stake.com) 💕  
 
   ---
  
@@ -16,7 +20,7 @@ I am a former software engineer with a focus on analytics. I have a wide range o
  
 ### [Stake and BE BRAVE LIKE UKRAINE](https://forward-stake.com)
 
-i'm Ukrainian and I love my country🇺🇦 I'm starting volunteer project called "Stake and BE BRAVE LIKE UKRAINE". I decided to create this project because I understand that we can help Ukrainian children who were left to live without parents because their parents were killed by russian military bastards!
+i'm Ukrainian and I love my country 🇺🇦 I'm starting volunteer project called "Stake and BE BRAVE LIKE UKRAINE". I decided to create this project because I understand that we can help Ukrainian children who were left to live without parents because their parents were killed by russian military bastards!
 
 The entire commission from delegated tokens is sent to help children who have suffered from russian aggression! Every Saturday I will withdraw commission and send it to charitable foundations, if you know those children who need help - write to me! I will send money to them!
 
