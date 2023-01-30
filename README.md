@@ -9,12 +9,6 @@ I am co-founder of [AMB](https://amb.place/) - the best solution for your ambass
 
 I am Binance angel and former software engineer with focus on analytics. I have wide range of business, technical, and communication skills which have allowed me to manage complex crypto projects. I participate as validator/moderator/ambassador in mainnets and testnets of such networks as cosmos, polkadot, solana, as well as other unique blockchains. You can see a full list of what I am up to on [kallen.cc](https://kallen.cc/#portfolio). 
 
-
-
- <div align="center">
-  <div style="display: flex; align-items: flex-start;">
- <img align="top" src="https://komarev.com/ghpvc/?username=kallen-c&color=yellow" height='35'/>
-<br />
 <br />
    <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
